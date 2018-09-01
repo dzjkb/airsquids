@@ -1,0 +1,7 @@
+name: AirSquids
+main: dzjkb.airsquids.AirSquids
+version: 1.0
+author: Dzjkb
+
+commands:
+    airsquids:
