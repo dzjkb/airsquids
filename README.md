@@ -1,4 +1,4 @@
-#Flying squids!
+# Flying squids!
 ## (and other water mobs)
 
 Allows squids, dolphins and other water mobs to swim through air using the new "waterlogged" block attribute,
